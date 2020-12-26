@@ -1,6 +1,6 @@
 # Python Data Science
 
-This repository contains projects related to Data Science in Python
+This repository contains Data Science problems solving in Python done using Jupyter Notebook
 
 * **Fake News Detection**</br>
 This is a simple classification problem which involves NLP such as TF-IDF Vectorizer and Passive Aggresive Classifier
